@@ -1,0 +1,6 @@
+2024-05-28 09:22:56.1716868376 | root | DEBUG | (bool('')==False)=True
+2024-05-28 09:22:56.1716868376 | root | DEBUG | bool("Alice")=True
+2024-05-28 09:26:46.1716868606 | root | DEBUG | (bool('')==False)=True
+2024-05-28 09:26:46.1716868606 | root | DEBUG | bool("Alice")=True
+2024-05-28 09:26:46.1716868606 | root | DEBUG | Hello, Bob!
+2024-05-28 09:26:46.1716868606 | root | DEBUG | greet('Bob')=None
