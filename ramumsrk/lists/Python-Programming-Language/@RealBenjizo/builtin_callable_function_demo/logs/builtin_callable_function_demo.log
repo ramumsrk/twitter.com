@@ -1,0 +1,10 @@
+2024-05-28 10:56:36.1716873996 | root | DEBUG | callable(sample_input_string)=False
+2024-05-28 10:56:36.1716873996 | root | DEBUG | True
+2024-05-28 10:57:59.1716874079 | root | DEBUG | Hello, Hello, how are you?
+2024-05-28 10:57:59.1716874079 | root | DEBUG | greet(sample_input_string)=None
+2024-05-28 10:57:59.1716874079 | root | DEBUG | callable(sample_input_string)=False
+2024-05-28 10:57:59.1716874079 | root | DEBUG | True
+2024-05-28 10:58:55.1716874135 | root | DEBUG | Hello, Hello, how are you?
+2024-05-28 10:58:55.1716874135 | root | DEBUG | greet(sample_input_string)=None
+2024-05-28 10:58:55.1716874135 | root | DEBUG | callable(sample_input_string)=False
+2024-05-28 10:58:55.1716874135 | root | DEBUG | callable(greet)=True
