@@ -1,0 +1,7 @@
+2024-05-28 17:40:23.1716898223 | root | DEBUG | __name__='Range'
+2024-05-28 17:40:23.1716898223 | root | DEBUG | __file__='/run/media/ramumsrk/1.0TiB/twitter.com/ramumsrk/lists/Python-Programming-Language/@Python_Dv/float_as_an_argument_to_builtin_range_function/Range/__init__.py'
+2024-05-28 17:40:23.1716898223 | root | DEBUG | __path__=['/run/media/ramumsrk/1.0TiB/twitter.com/ramumsrk/lists/Python-Programming-Language/@Python_Dv/float_as_an_argument_to_builtin_range_function/Range']
+2024-05-28 17:44:36.1716898476 | root | DEBUG | __name__='Range'
+2024-05-28 17:44:36.1716898476 | root | DEBUG | __file__='/run/media/ramumsrk/1.0TiB/twitter.com/ramumsrk/lists/Python-Programming-Language/@Python_Dv/float_as_an_argument_to_builtin_range_function/Range/__init__.py'
+2024-05-28 17:44:36.1716898476 | root | DEBUG | __path__=['/run/media/ramumsrk/1.0TiB/twitter.com/ramumsrk/lists/Python-Programming-Language/@Python_Dv/float_as_an_argument_to_builtin_range_function/Range']
+2024-05-28 17:44:43.1716898483 | root | ERROR | 'float' object cannot be interpreted as an integer
