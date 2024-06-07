@@ -1,0 +1,8 @@
+June, Friday 07, 2024 08:58:28 IST +0530 | root | DEBUG | __name__='break_continue_and_list'
+June, Friday 07, 2024 08:58:28 IST +0530 | root | DEBUG | type(logging)=<class 'module'>
+June, Friday 07, 2024 08:58:28 IST +0530 | root | DEBUG | logging.__name__='logging'
+June, Friday 07, 2024 08:58:28 IST +0530 | root | DEBUG | logging.__path__=['/usr/lib64/python3.12/logging']
+June, Friday 07, 2024 08:58:28 IST +0530 | root | DEBUG | logging.__file__='/usr/lib64/python3.12/logging/__init__.py'
+June, Friday 07, 2024 08:58:28 IST +0530 | root | DEBUG | main()=None
+June, Friday 07, 2024 08:58:28 IST +0530 | root | DEBUG | numbers=[1, 2, 3, 4, 5]
+June, Friday 07, 2024 08:58:28 IST +0530 | root | DEBUG | some_numbers=[1]
